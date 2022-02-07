@@ -1,3 +1,3 @@
 # owka54.github.io
 
-This will eventually be used for a personal website displaying what I am learning, working on, completed etc.
+Creating a personal website to showcase my projects and improve my HTML and CSS along the way. 
